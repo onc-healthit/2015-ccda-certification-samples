@@ -20,3 +20,10 @@ It will be up to the ATL’s and their administrators to ensure that only the te
 The public will be able to view-download the submitted files from this repository.  
 
 If you have any additional questions, please contact TestingServices@sitenv.org.
+
+Organizing Folder/Files
+-----------------------
+ATL’s will create an organized folder structure to store the artifacts with the hierarchy of: 
+ - vendor name 
+   - product name. 
+     - The C-CDA artifacts successfully tested shall be placed in the folder "product name". 
