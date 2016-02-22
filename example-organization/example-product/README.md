@@ -10,8 +10,8 @@ The ability to add to the repository is restricted to one group of ATL administr
 1) You must have a GitHub client installed locally, login to GitHub through your client, and create your own repository.
 2) “Clone” the “2015-C-CDA-Certification Samples” repository to your local GitHub repository
 3) Navigate to the location on your local machine where your GitHub client stores its files. For example: c:\users\bdyer\GitHub.  There you will now have a folder called "2015-C-CDA-Certification Samples”.
-4) Under that folder on your local machine, create a folder with your company name - e.g. “pyramed”.  
-5) Under that, create a folder for your product - e.g. “product” (This is where you will place your files.  In order to sync with the master repository, you must have at least one file in your product directory - e.g. “README.md”)
+4) Under that folder on your local machine, create a folder with your company name - e.g. “organization-name”.  
+5) Under that, create a folder for your product - e.g. “product-name” (This is where you will place your files.  In order to sync with the master repository, you must have at least one file in your product directory - e.g. “README.md”)
 6) Your client should then see the new folders/file(s) and tell you that you have X unsynched.
 7) Commit your files to the master branch - Enter a Summary and a Description of what you are committing and click “Commit to Master”
 8) un the Sync on your client and you will then see your folders/file(s) up on GitHub.
