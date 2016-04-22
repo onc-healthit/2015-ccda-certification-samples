@@ -21,9 +21,18 @@ The public will be able to view-download the submitted files from this repositor
 
 If you have any additional questions, please contact TestingServices@sitenv.org.
 
-Organizing Folder/Files
+Folder/File Structure and Naming Convention
 -----------------------
 ATL’s will create an organized folder structure to store the artifacts with the hierarchy of: 
  - vendor name 
    - product name. 
-     - The C-CDA artifacts successfully tested shall be placed in the folder "product name". 
+     - The C-CDA artifacts successfully tested shall be placed in the folder "product name"
+     - Under the Product Name folder there should be four folders:
+       a)  C-CDA 2.1 Document Template: Continuity of Care Document
+       b)  C-CDA 2.1 Document Template: Referral Note
+       c)  C-CDA 2.1 Document Template: Discharge Summary
+       d)  C-CDA 2.1 Document Template: Care Plan
+
+Then within these folders, File Name Structure:
+ATL +Template Type+ Criterion+ Developer + ProductName+ Date) (ICSA_CCD_b1_Cerner_BestEHR_MMDDYYYY)
+
