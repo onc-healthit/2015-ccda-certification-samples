@@ -1,5 +1,5 @@
 # 2015-C-CDA-Certification-Samples
-This repository contains sample C-CDA files which have passed the ONC 2015 Standards &amp; Certification Criteria using ONC 2015 S&amp;CC test procedures. Please note that these are C-CDAs uploaded at the time they are tested and that they may not pass the most recent version of the validator due to errata corrections.
+This repository contains sample C-CDA files which have passed the ONC 2015 Standards &amp; Certification Criteria using ONC 2015 Edition test procedures. Please note that these are C-CDAs uploaded at the time they are tested and that they may not pass the most recent version of the validator due to errata corrections.
 
 Users of the Repository
 -----------------------
