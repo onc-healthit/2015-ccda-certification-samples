@@ -36,3 +36,5 @@ ATL’s will create an organized folder structure to store the artifacts with th
 Then within these folders, File Name Structure:
 ATL +Template Type+ Criterion+ Developer + ProductName+ Date) (ICSA_CCD_b1_Cerner_BestEHR_MMDDYYYY)
 
+The files should be grouped in the folder by validator release tested against (ETT release) or some other chronological file folder order.
+
