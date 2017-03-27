@@ -1,2 +1,2 @@
-Please note the CCDA files are grouped by the version of the Edge Test Tool (ETT) used during the time of the actual test event.  Due to ongoing enhancements made to the ETT, 
-some of the CCDA files validated in previous versions may not pass a more current version.  
+Please note the CCDA files are grouped by the version of the Edge Test Tool (ETT) used during the time of the actual test event.  Due to ongoing enhancements and ERRATA corrections 
+made to the ETT, some of the CCDA files validated in previous versions may not pass a more current version.  
