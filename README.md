@@ -1,9 +1,9 @@
 # 2015-C-CDA-Certification-Samples
-This repository contains sample C-CDA files which have passed the ONC 2015 Edition using ONC 2015 Edition test procedures. Please note that these are C-CDAs uploaded at the time they are tested and that they may not pass the most recent version of the validator due to errata corrections.
+This repository contains sample C-CDA files which have passed the ONC 2015 Edition using ONC 2015 Edition test procedures. Please note that these are C-CDAs uploaded at the time they are tested and that they may not pass the most recent version of the validator due to errata corrections. The upload of these example files is optional, at the discretion of each ONC-Authorized Testing Labortory (ONC-ATL). 
 
 Users of the Repository
 -----------------------
-This repository will be used by the ATL labs who are certifying vendor systems per ONC 2015 S&CC to upload C-CDA samples which are certified.
+This repository can be used (at their option) by ONC-Authorized Testing Labortories who are certifying vendor systems to the ONC 2015 Edition. The ONC-ATL can upload C-CDA samples that have been used in the certificaiton testing for the benefit of the health IT community.
 
 Process for Uploading Files
 --------------------------
