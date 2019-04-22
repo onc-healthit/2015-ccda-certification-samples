@@ -1,5 +1,7 @@
 # 2015-C-CDA-Certification-Samples
-This repository contains sample C-CDA files which have passed the ONC 2015 Edition using ONC 2015 Edition test procedures. Please note that these are C-CDAs uploaded at the time they are tested and that they may not pass the most recent version of the validator due to errata corrections. The upload of these example files is optional, at the discretion of each ONC-Authorized Testing Labortory (ONC-ATL). 
+This repository contains sample C-CDA files which have passed the ONC 2015 Edition using ONC 2015 Edition test procedures. The upload of these example files is optional, at the discretion of each ONC-Authorized Testing Labortory (ONC-ATL).
+
+Of note: these C-CDAs are uploaded at the time they are tested; as such, they may not pass the most recent version of the C-CDA validator due to subsequent errata corrections.
 
 Users of the Repository
 -----------------------
